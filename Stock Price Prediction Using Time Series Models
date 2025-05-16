@@ -1,0 +1,5 @@
+git clone https://github.com/M3GHAN/stock-price-prediction-ARIMA-SARIMA.git
+cd stock-price-prediction-ARIMA-SARIMA
+pip install -r requirements.txt
+# Run the main notebook or script as described in the repo
+
